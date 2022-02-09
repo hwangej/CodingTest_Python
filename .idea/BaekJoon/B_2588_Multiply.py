@@ -5,3 +5,5 @@ print(a * (b % 100 % 10))
 print(a * (b%100//10))
 print(a * (b//100))
 print(a * b)
+
+print(b % 100)
